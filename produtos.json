@@ -1,0 +1,3035 @@
+[
+  {
+    "id": 1,
+    "name": "Perfume Feminino LOV|U Avon 75ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 99.9,
+    "oldPrice": 139.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/mv0n9qcvq3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Perfume feminino Kaiak Oceano miniatura 25ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 44.9,
+    "oldPrice": 65.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ovps5zl4hs.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Perfume feminino Essencial Sentir 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 179.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/3trwxrvzq7.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Perfume Far Away Original Deo Parfum 50 ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 84.9,
+    "oldPrice": 119.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/1wgvonmek9.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Perfume Chic Retrô Eudora 95ml",
+    "brand": "Eudora",
+    "category": "perfumaria",
+    "price": 99.99,
+    "oldPrice": 129.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/apdsf7ds6u.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Perfume Pink Diamonds Intense Deo Parfum 60ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 109.9,
+    "oldPrice": 147.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/dx8x2no9vk.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Perfume Glamour Fever Colônia Oboticário 75ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 159.9,
+    "oldPrice": 199.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/kvd1edkv2r.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Perfume Glamour Feminino OBoticário 75ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 154.9,
+    "oldPrice": 199.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/wkv1cen022.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Perfume Ekos Frescor Andiroba Feminino 150ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 89.9,
+    "oldPrice": 129.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/h19mxpirju.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Perfume Ekos frescor Açaí feminino 150ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 85.9,
+    "oldPrice": 129.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/1g4vcfd8kf.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Perfume Águas Violeta feminino 150ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 74.9,
+    "oldPrice": 119.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/fyuhqpedu4.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Perfume Águas Lavanda feminino 170ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 74.9,
+    "oldPrice": 119.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/rtxw60kzil.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Perfume Águas Jabuticaba feminino 170ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 74.9,
+    "oldPrice": 119.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/s2k54596nc.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Perfume Biografia Tradicional feminino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 135.9,
+    "oldPrice": 209.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/bovfdvrola.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Perfume Essencial Único feminino Deo Parfum 90ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 199.9,
+    "oldPrice": 322.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4xuqefyo8d.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Perfume feminino Humor Proprio 75ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 104.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/i7m8x4tv7y.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Perfume Miniatura Kaiak Aventura Feminino 25ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 65.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/zoczsai61u.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Perfume Feminino LOV|U Deo Parfum 75ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 99.9,
+    "oldPrice": 139.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/aacdgl92oz.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Perfume Luna Fascinante Feminino 75ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 185.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4gwse6t6n8.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Perfume Floratta Flores Secretas 75ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 149.9,
+    "oldPrice": 174.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/mwn4qznj7l.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Perfume Floratta Gold Colônia 75ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 144.9,
+    "oldPrice": 174.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/vf3aup0o7n.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Perfume Floratta Cerejeira em Flor 75Ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 119.9,
+    "oldPrice": 174.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/uacfksydz8.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Perfume Feminino Floratta My Blue 75ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 149.9,
+    "oldPrice": 174.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/40f23rsxot.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Perfume Floratta Blue feminino 75ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 149.9,
+    "oldPrice": 174.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/i7jgti4tnw.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Perfume Feminino Egeo Hit 90ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 139.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/qixivbyw2t.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Pefume Feminino Egeo Dolce Colônia 90ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 149.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/t7ffcoal7t.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Perfume Linda Felicidade OBoticário 100ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 209.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/fr682svrz4.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Perfume Feminino Liz Tradicional 100ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 154.9,
+    "oldPrice": 179.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/gc2jmipcxw.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Perfume Kriska Shock feminino 100ml",
+    "brand": "Eudora",
+    "category": "perfumaria",
+    "price": 109.9,
+    "oldPrice": 169.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/os3wffth4s.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Perfume Ilía Flor de Laranjeira feminino 50ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 139.9,
+    "oldPrice": 199.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/mxzho2y042.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Perfume Ilía Plena feminino 50ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 134.9,
+    "oldPrice": 199.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/il36wd3o4i.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Perfume Ilía Completa feminino 50ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 139.9,
+    "oldPrice": 199.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/t7fdxfxjn.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Perfume Ekos Ryos Des Col Vivo 75ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 139.9,
+    "oldPrice": 199.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/f6j8kl0hkw.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Perfume Ekos frescor Castanha feminino 150ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 84.9,
+    "oldPrice": 129.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/f00s6nqx9i.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Perfume Essencial Oud feminino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 179.9,
+    "oldPrice": 289.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/r26tln8cxx.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Perfume Luna Intenso feminino 50ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 139.9,
+    "oldPrice": 219.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9dlg0i8oey.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Perfume Ilía Tradicional feminino 50ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 134.9,
+    "oldPrice": 199.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/407tkr9glq.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Perfume Essencial Tradicional feminino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 179.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/n5ysvic8g8.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Perfume Miniatura Humor A Rigor 25ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 49.9,
+    "oldPrice": 67.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/nf6zo6a95l.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Perfume Miniatura Kaiak Masculino 25ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 44.9,
+    "oldPrice": 65.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/a1j4kfkgxh.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Perfume Natura Homem Tradicional 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 139.9,
+    "oldPrice": 214.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/e96xa085rf.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Perfume Essencial Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 179.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/u9bctvcvyb.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Perfume Natura Homem Essence 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 159.9,
+    "oldPrice": 244.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/6z55qucl3z.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Perfume Natura Homem Nós 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 154.9,
+    "oldPrice": 244.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0m3g6u1kww.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Perfume Natura Homem Elo deo Parfum 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 159.9,
+    "oldPrice": 244.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/btnbjgbmy4.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Perfume Natura Homem Sagaz 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 159.9,
+    "oldPrice": 244.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/1s9h24wp41.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Perfume Natura Homem Dom 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 154.9,
+    "oldPrice": 244.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/tqvmuc6s11.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Perfume Natura Homem Tato Deo Parfum 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 159.9,
+    "oldPrice": 244.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/1wfjqmw5wd.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Perfume Kaiak Pulso masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 119.9,
+    "oldPrice": 189.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/20er43m73r.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Perfume Kaiak Vital Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 119.9,
+    "oldPrice": 189.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/rhq3w0srvj.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Perfume Masculino Humor Estelar 75ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 104.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/jqvpe3oy9b.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Perfume Masculino Black Essential Secret 100ml",
+    "brand": "Multimarcas",
+    "category": "perfumaria",
+    "price": 74.9,
+    "oldPrice": 99.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/kazh9ryxrw.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Perfume Masculino Sr.N Natura100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 109.9,
+    "oldPrice": 169.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/bfdbaa5mpb.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Perfume Masculino Essencial Sentir 100 ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 179.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/cimndsr4ib.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Perfume Miniatura Kaiak Aventura Masculino 25ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 44.9,
+    "oldPrice": 65.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/b7yuwxj26f.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Perfume Kaiak Aero masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 119.9,
+    "oldPrice": 189.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/yiuqu1l76u.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Perfume Humor a Dois masculino 75ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 105.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ws40fkemtg.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Perfume Essencial Oud Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 179.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/qiq6vrea9b.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Perfume Essencial Exclusivo Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 179.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/fkpglkfy0r.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Perfume Masculino Insensatez 100ml",
+    "brand": "Multimarcas",
+    "category": "perfumaria",
+    "price": 148.9,
+    "oldPrice": 174.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/u3wi1ucw8c.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Perfume Masculino Sintonia Classico 100ml",
+    "brand": "Multimarcas",
+    "category": "perfumaria",
+    "price": 139.9,
+    "oldPrice": 219.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ucbjq0sby0.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Pefume Masculino Egeo Spicy Vibe 90ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 149.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/px135ueo8k.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Perfume Masculino Egeo Original 90ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 149.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/viojfywlga.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Perfume Masculino Egeo Blue 90ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 149.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/qi8wuozfa7.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Perfume Arbo Tradicional Masculino 100ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 154.9,
+    "oldPrice": 189.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/iw568r7imb.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Perfume Biografia Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 134.9,
+    "oldPrice": 209.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/cpqps1iplr.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Perfume Kaiak Tradicional Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 119.9,
+    "oldPrice": 189.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/3cjb250tsy.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Perfume Humor a Rigor masculino 75ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 109.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/3xul7n8m56.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Perfume kaiak extremo masculino - 100 ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 119.9,
+    "oldPrice": 189.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/pcn2s0bkqy.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Perfume Masculino Essencial Supreme 100mll",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 179.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/921jbj9tls.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Perfume Masculino Paz e Humor 75ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 109.9,
+    "oldPrice": 164.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/trajedlu79.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Perfume Kaiak Oceano masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 119.9,
+    "oldPrice": 189.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/i3fgl83rlb.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Perfume Masculino Essencial Atrai 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 179.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/q5ay6yd2rt.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Perfume Kaiak Urbe masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 119.9,
+    "oldPrice": 189.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/co2zzs73v7.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Deo Spray Corporal Essencial Oud Masculino",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 45.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0853fs2495.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Deo Spray Corporal Essencial Exclusivo Floral 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 45.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/pmh90gijv.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Deo Spray Corporal Essencial Exclusivo Feminino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 45.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/e9wi05yb5a.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Deo spray corporal Essencial Atrai Feminino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 45.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/6cbnlqk0a.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Body Splash Framboesa e Pimenta Vermelha 200ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": 96.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/mp35pbc1rq.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Body splash Flor de Gengibre e Tangerina 200ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 96.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/6fmig0rwvd.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Body splash Maça Caramelada e Baunilha",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": 96.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ta5mmoc1o7.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Deo Spray Corporal Kaiak Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/mqxwu612bk.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Deo Corporal Kaiak Oceano Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/8hhymxrh6h.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Body Spray Feminino Egeo Dolce 100ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 45.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/jo5ylnzzw5.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Body Splash Romã e Flor de Amora 200ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": 96.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/zwihow1ciy.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Deo Spray Corporal Sr. N 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/re1dnr42wq.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Deo Spray Corporal Essencial Sentir Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 44.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/bosxrhgbad.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Body Splash Iluminador Luna Absoluta 200ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 74.9,
+    "oldPrice": 99.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/yti6o7o8mf.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Body Splash Flor De Melissa Tododia 200ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": 96.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/znjm7ebh62.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Presente Avon Aquavibe Baby Smell",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 19.99,
+    "oldPrice": 25.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ckda20io5r.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Body Splash Nativa Spa Orquídea Noire 200ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 99.9,
+    "oldPrice": 104.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ifviwvr3og.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Body Splash Nativa Spa Ameixa 200ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 99.9,
+    "oldPrice": 109.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ka5760uwrn.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Body Splash Doçura Na Pessegura 200ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 74.9,
+    "oldPrice": 94.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/n560qch5c2.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Body Splash Cereja e Avelã Tododia 200ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/s5clylqiri.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Body Splash Aquavibe Alfazema 300ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 39.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/lpw08bwstn.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Body Splash Aquavibe Pitanga 1 Litro",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 64.9,
+    "oldPrice": 79.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/07bb37t3t8.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Body Splash Aquavibe Ameixa 300ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 39.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/kivnv07333.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Deo Spray Corporal Kaiak Feminino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/sta4psv0d5.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Body Spray Instance Morango Irresistível 200ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": 74.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/b923iwn47v.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Deo Corporal Spray Kaiak Urbe 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 57.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/rcoqcctb2u.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Body Spray masculino Malbec Ultra Bleu 100ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 44.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/whkjlnloth.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Body Spray Glamour Tradicional 100ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 44.9,
+    "oldPrice": 52.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/h9iku6njwh.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Body Spray Feminino Diva Esplêndida 100ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 47.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/n48su0ixi7.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Body Spray Feminino Eudora Magnific 100ml",
+    "brand": "Eudora",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 47.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ekek8ova4n.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Body Spray Masculino Arbo 100ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 44.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/5hnulztv19.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Deo Spray Natura Homem Tato 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 44.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/xtlex6ydqf.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Body Spray Floratta Flores Secretas 100ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 45.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/es84waw1wh.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Body Spray Floratta Rose 100ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 44.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/h135y9im7u.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Deo Spray Natura Homem 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/bzox6d1exm.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Deo Spray Corporal Essencial Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 45.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/x96qinvi9u.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Deo Spray Corporal Humor A Dois 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0uf5nw386z.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Deo Spray Corporal Luna Tradicional 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/snj434u3my.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Deo Corporal Biografia Feminino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/kxsnj6j1yx.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Body Splash Tododia Algodão 200ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": 93.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4i6rkzdlfv.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Body Spray Eudora Instance Rosa Absoluta 200ml",
+    "brand": "Eudora",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": 74.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/wcxbt4ljbg.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Body Spray Eudora Instance Karité 200ml",
+    "brand": "Eudora",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": 74.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/07annrpkbo.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Body Splash Luna Tradicional 200ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 64.9,
+    "oldPrice": 93.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/7vg3nwwzoe.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Body Splash Kriska Flores 200ml",
+    "brand": "Eudora",
+    "category": "perfumaria",
+    "price": 62.9,
+    "oldPrice": 93.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/l10pebe1yx.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Deo Corporal Spray Biografia Masculino 100ml",
+    "brand": "Natura",
+    "category": "perfumaria",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/1yn9tsjq9c.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Body Splash Aquavibe Chypre 300ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 27.99,
+    "oldPrice": 39.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/w44t8hp2f9.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Body Splash Aquavibe Framboesa e Cassis 300ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 29.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0a463ha0e0.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Body Splash Aquavibe Pitanga 300ml",
+    "brand": "Avon",
+    "category": "perfumaria",
+    "price": 27.99,
+    "oldPrice": 39.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/alryw2it8p.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Body Splash Ameixa E Flor De Baunilha 200ml",
+    "brand": "Boticário",
+    "category": "perfumaria",
+    "price": 59.9,
+    "oldPrice": 93.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/599i2rjyha.jpg"
+  },
+  {
+    "id": 124,
+    "name": "BRILHO LABIAL ROLLETTE GLITTER MORANGO VIBES",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 14.9,
+    "oldPrice": 19.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/vrkk4tkdi4.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Brilho Labial Rollette Drink Amora Color Trend",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 14.9,
+    "oldPrice": 19.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ah98hnet96.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Brilho Rollette Glow Pêssego para Lábios",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 14.9,
+    "oldPrice": 19.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/2hmgvcfqsj.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Lápis para Sobrancelhas ESCURO Avon Colortrend",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 12.9,
+    "oldPrice": 16.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/oj5hddj2ao.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Hidratante Labial FPS 15 Amora",
+    "brand": "Multimarcas",
+    "category": "maquiagem",
+    "price": 13.9,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/65abazp16h.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Hidratante Labial FPS 15 Morango",
+    "brand": "Multimarcas",
+    "category": "maquiagem",
+    "price": 13.9,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4rnmgnuwp0.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Hidratante Labial FPS 20 Coco",
+    "brand": "Multimarcas",
+    "category": "maquiagem",
+    "price": 13.9,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/qh0e5qltfo.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Máscara para Cílios Supershock Volume Max Avon",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 34.9,
+    "oldPrice": 42.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/oalca5ss9s.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Batom Color Trend Kiss Hidra Chocolate Belga",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 14.99,
+    "oldPrice": 19.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/5sxp9lz7vk.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Lápis para Delinear os Olhos Preto Matte",
+    "brand": "Multimarcas",
+    "category": "maquiagem",
+    "price": 9.99,
+    "oldPrice": 15.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/3ikwqhnlmj.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Batom Líquido Matte Glitter Avon Power Stay 16h - Nude Iluminado",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ru2z6wb55x.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Batom Líquido Matte Glitter Power Stay 16h - Cereja Brilhante",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/k6fumkr5c1.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Batom Líquido Matte Glitter Power Stay 16h - Magenta Reluzente",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/vo9g0hv72j.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Batom Líquido Matte Glitter Power Stay 16h- Malva Luminoso",
+    "brand": "Avon",
+    "category": "maquiagem",
+    "price": 39.9,
+    "oldPrice": 49.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/3uvpd253s2.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Demaquilante Bifásico Chronos 150ml",
+    "brand": "Natura",
+    "category": "skincare",
+    "price": 44.9,
+    "oldPrice": 84.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/2xx7igujis.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Protetor Solar Renew Rosto FPS 50 40g",
+    "brand": "Avon",
+    "category": "skincare",
+    "price": 44.9,
+    "oldPrice": 54.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/b3w80vnqfe.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Sabonete Gel de Limpeza Facial 3 em 1",
+    "brand": "Multimarcas",
+    "category": "skincare",
+    "price": 14.99,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/utcaqc052n.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Protetor Solar Rosto Controle de Brilho FPS 30 40g",
+    "brand": "Multimarcas",
+    "category": "skincare",
+    "price": 32.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/lbgccod1el.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Protetor solar facial pele mista a oleosa fps uvb 70 / fpuva 25 - 50 ml",
+    "brand": "Multimarcas",
+    "category": "skincare",
+    "price": 74.9,
+    "oldPrice": 109.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/y1q2rlqu63.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Protetor solar facial pele normal a seca fps uvb 70 / fpuva 25 - 50 ml",
+    "brand": "Multimarcas",
+    "category": "skincare",
+    "price": 74.9,
+    "oldPrice": 109.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/sud1fdvk91.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Sabonete Facial Limpeza purificante antioleosidade",
+    "brand": "Multimarcas",
+    "category": "skincare",
+    "price": 56.9,
+    "oldPrice": 81.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/yn6ae2hoe1.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Sabonete rosto Limpeza Extraforte com Ácido Salicílico",
+    "brand": "Multimarcas",
+    "category": "skincare",
+    "price": 11.99,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/hnrdtl7xko.jpg"
+  },
+  {
+    "id": 146,
+    "name": "Sabonete rosto Limpeza Purificante com Carvão",
+    "brand": "Multimarcas",
+    "category": "skincare",
+    "price": 11.99,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/x14oirugcl.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Sabonete em Gel para o rosto Natura 120g",
+    "brand": "Natura",
+    "category": "skincare",
+    "price": 26.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/8hvqptp1rt.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Kit Nutrição Completa Óleos de Argan e Coco",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 39.9,
+    "oldPrice": 51.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/e1e8jo0kib.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Shampoo Cachos Poderosos Advance Techniques 300ml",
+    "brand": "Avon",
+    "category": "cabelos",
+    "price": 19.9,
+    "oldPrice": 25.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/vz8n4htsts.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Shampoo Mamãe e Bebê 200ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 34.9,
+    "oldPrice": 47.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/bzmozwzv7t.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Máscara Capilar Hidratação Natura Tododia 250ml",
+    "brand": "Natura",
+    "category": "cabelos",
+    "price": 36.9,
+    "oldPrice": 51.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/l7x2z5x6h0.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Óleo de Tratamento Restaurador Argan e Camélia 90ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 34.9,
+    "oldPrice": 49.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/w8ogks1yfc.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Gelatina Fixadora Crespos Empoderados",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 34.9,
+    "oldPrice": 45.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/uk3ag4d8lr.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Perfume de cabelo cereja e avelã 60ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 39.9,
+    "oldPrice": 49.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/sej4eioz8l.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Condicionador Siàge Remove A Oleosidade 200ml",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 45.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/m8wq27lzs7.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Combo Siàge Cauterização dos Lisos - Shampoo + Condicionador",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 89.99,
+    "oldPrice": 102.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/nuj9x1mz4q.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Óleo Reparador Cachos Fabulosos Finalizador",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 24.9,
+    "oldPrice": 32.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/dcc35m5k1l.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Máscara Reparadora para Cabelos Secos Lumina",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 49.9,
+    "oldPrice": 79.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9ort1a5yhn.jpg"
+  },
+  {
+    "id": 159,
+    "name": "Óleo Reparador tratamento Ultra Liso 30ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 24.99,
+    "oldPrice": 32.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/pzavqd5p3n.jpg"
+  },
+  {
+    "id": 160,
+    "name": "Óleo Reparador Reconstrução Extrema 30ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 24.99,
+    "oldPrice": 32.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/kwpqpj7q9j.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Óleo Reparador Hidratante Argan e Coco 30ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 24.99,
+    "oldPrice": 32.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/yo4itoo4fl.jpg"
+  },
+  {
+    "id": 162,
+    "name": "Óleo Reparador Argan Nutrição Completa 30ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 24.99,
+    "oldPrice": 32.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/yd2kx2vu5r.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Óleo Reparador Argan e Camélia Restaurador 30ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 24.99,
+    "oldPrice": 32.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/r2d0mo0c4x.jpg"
+  },
+  {
+    "id": 164,
+    "name": "Creme Para Pentear Siàge Revela Os Cachos 500G",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 59.9,
+    "oldPrice": 67.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ml4uhw7ot7.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Creme de Pentear Cc Cream Siàge Reconstrói os Fios 100ml",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/cqnipc9cn4.jpg"
+  },
+  {
+    "id": 166,
+    "name": "Combo Siàge Revela os Cachos: Shampoo+ Condicionador",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 87.99,
+    "oldPrice": 102.98,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/d164ep9zwg.jpg"
+  },
+  {
+    "id": 167,
+    "name": "Combo Siàge Reconstrói os Fios: Shampoo+ Condicionador",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 86.99,
+    "oldPrice": 102.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/nd1um57j0h.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Combo Siàge Pro Cronology - Shampoo + Condicionador",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 88.9,
+    "oldPrice": 102.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/aqyivf3rgy.jpg"
+  },
+  {
+    "id": 169,
+    "name": "Combo Siàge Combate o Frizz - Shampoo + Condicionador",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 86.9,
+    "oldPrice": 102.98,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/819avd2zvc.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Combo Siage Acelera O Crescimento - Shampoo + Condicionador",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 86.99,
+    "oldPrice": 102.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/wgtlkt5lie.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Refil shampoo Lumina hidratação e proteção 300ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 28.9,
+    "oldPrice": 38.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/flj1uhncf1.jpg"
+  },
+  {
+    "id": 172,
+    "name": "Refil condicionador Lumina hidratação e proteção 300ml",
+    "brand": "Multimarcas",
+    "category": "cabelos",
+    "price": 29.99,
+    "oldPrice": 41.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/vw0itnamlr.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Máscara Capilar Ultra Brilho Siàge Glow Expert 250g",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 69.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9mju1ib2ag.jpg"
+  },
+  {
+    "id": 174,
+    "name": "Máscara Capilar Eudora Siàge Revela Os Cachos 250G",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 69.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/mqzqxbbxwi.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Máscara Capilar Siàge Reconstrói Os Fios 250G",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 69.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/hde0d3wo77.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Shampoo Siàge Men Combate à Caspa 250ml",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 41.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/hx4ex3opvs.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Máscara Capilar Siàge Combate o Frizz 250g",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 69.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/irj1rofssq.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Kit Siage Cica Therapy - Shampoo+Condicionador",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 97.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/kad4deher2.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Máscara Capilar Eudora Siàge Cica Therapy 250g",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 69.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0lynvoppki.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Máscara Capilar Siàge Cauterização dos Lisos 250g",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 69.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ggbqauh1iv.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Máscara Capilar Siàge Acelera o Crescimento 250g",
+    "brand": "Eudora",
+    "category": "cabelos",
+    "price": 69.99,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/no5eil9mk1.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Hidratante Corporal Manga Rosa e Água de Coco 400 ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/drs4h0kryy.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Hidratante Corporal Perfumado Luna 300ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 69.9,
+    "oldPrice": 95.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/949411kdmv.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Hidratante Corporal Perfumado Flor De Laranjeira 200g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 94.9,
+    "oldPrice": 134.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4tmkxx0394.jpg"
+  },
+  {
+    "id": 185,
+    "name": "Hidratante Corporal Liz Intenso 250g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 59.9,
+    "oldPrice": 79.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0xi1wxw9cw.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Refil Hidratante Corporal Nativa SPA Ameixa 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 57.9,
+    "oldPrice": 67.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/xraa6a07ca.jpg"
+  },
+  {
+    "id": 187,
+    "name": "Creme Energizante Corporal 2 em 1 Tododia Energia 200ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 37.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ghzgv8qvfy.jpg"
+  },
+  {
+    "id": 188,
+    "name": "Refil Hidratante Corpo Manga Rosa e Água de Coco 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/dvonvqneum.jpg"
+  },
+  {
+    "id": 189,
+    "name": "Hidratante Corporal ameixa e flor de baunilha 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/1q0s9vwy7t.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Hidratante Corporal framboesa e pimenta vermelha 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 59.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9jmalocm1t.jpg"
+  },
+  {
+    "id": 191,
+    "name": "Refil Hidratante Corporal Morango e Baunilha Dourada 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/dfrhkplb9b.jpg"
+  },
+  {
+    "id": 192,
+    "name": "Hidratante Corporal Maça Caramelada 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/gjfav2g1ou.jpg"
+  },
+  {
+    "id": 193,
+    "name": "Hidratante Corporal Romã e Flor de Amora 200ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4p197dirax.jpg"
+  },
+  {
+    "id": 194,
+    "name": "Hidratante Corporal Jambo Rosa e Flor de Caju 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/w3na1b1580.jpg"
+  },
+  {
+    "id": 195,
+    "name": "Creme Hidratante Corporal flor de pera e melissa 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/tln79qzi8n.jpg"
+  },
+  {
+    "id": 196,
+    "name": "Refil Hidratante Corporal Cereja Negra Tododia 400ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0al0ypqbdv.jpg"
+  },
+  {
+    "id": 197,
+    "name": "Refil Hidratante Corporal Tododia Amora Vermelha e Jabuticaba 400ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/yk39j4mjjq.jpg"
+  },
+  {
+    "id": 198,
+    "name": "Loção Hidratante Corporal Nativa SPA Ameixa 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 79.9,
+    "oldPrice": 89.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4izam2jr9a.jpg"
+  },
+  {
+    "id": 199,
+    "name": "Hidratante Corporal Imensi Infinite Eudora 200ml",
+    "brand": "Eudora",
+    "category": "corpo",
+    "price": 39.9,
+    "oldPrice": 49.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/teevpp1569.jpg"
+  },
+  {
+    "id": 200,
+    "name": "Hidratante Corporal Suflê Egeo Choc 250g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 59.9,
+    "oldPrice": 79.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/esa3v5s636.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Hidratante Corporal Avelã Cassis 100ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 24.9,
+    "oldPrice": 32.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/lb47rj3pb8.jpg"
+  },
+  {
+    "id": 202,
+    "name": "Hidratante Corporal Avelã e Cassis 100ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 19.9,
+    "oldPrice": 25.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/t2koi7afck.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Hidratante Corporal Cuide-se Bem Nuvem 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 59.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/wpbklqp20b.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Hidratante Corporal Algodão Natura 400ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/fut55x0kbo.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Hidratante Corporal Geleia Perfumada Meu Primeiro Humor 75 ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 24.9,
+    "oldPrice": 34.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ter69k6hed.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Hidratante Corporal Relaxante Instance Maracujá 180Ml",
+    "brand": "Avon",
+    "category": "corpo",
+    "price": 35.9,
+    "oldPrice": 42.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/phhn6q3uln.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Hidratante Corporal Flor de Pera e Melissa 100ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 24.9,
+    "oldPrice": 32.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ksjc3iogsv.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Hidratante Corporal Instance Rosa Absoluta 400ml",
+    "brand": "Avon",
+    "category": "corpo",
+    "price": 47.9,
+    "oldPrice": 59.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/5jizqv24tf.jpg"
+  },
+  {
+    "id": 209,
+    "name": "Hidratante Corporal Instance Morango Irresistível 400Ml",
+    "brand": "Avon",
+    "category": "corpo",
+    "price": 47.9,
+    "oldPrice": 59.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/3mlojp0pxd.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Hidratante Corporal Instance Cereja E Amêndoas 180Ml",
+    "brand": "Avon",
+    "category": "corpo",
+    "price": 34.99,
+    "oldPrice": 39.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/iqnuqau10m.jpg"
+  },
+  {
+    "id": 211,
+    "name": "Hidratante Corporal kaiak feminino 100ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 27.9,
+    "oldPrice": 40.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/mn8jza6m5w.jpg"
+  },
+  {
+    "id": 212,
+    "name": "Hidratante Corporal Acetinado Lily 250G",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 139.9,
+    "oldPrice": 149.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/hmf3awq3jc.jpg"
+  },
+  {
+    "id": 213,
+    "name": "Hidratante Corporal Ekos Madeira em Flor 250 ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 74.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/zyyj6st15n.jpg"
+  },
+  {
+    "id": 214,
+    "name": "Hidratante Corporal cereja negra e praliné 400 ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/pp0u7ifg1b.jpg"
+  },
+  {
+    "id": 215,
+    "name": "Hidratante Corporal Massagem Instance Morango 180ml",
+    "brand": "Avon",
+    "category": "corpo",
+    "price": 36.99,
+    "oldPrice": 42.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/xf3lp68dsa.jpg"
+  },
+  {
+    "id": 216,
+    "name": "Hidratante para o corpo noz pecã e cacau 200ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 37.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ab638allq8.jpg"
+  },
+  {
+    "id": 217,
+    "name": "Hidratante Corporal Cereja Negra E Praline 100ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 24.99,
+    "oldPrice": 32.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/z3g9uprv0r.jpg"
+  },
+  {
+    "id": 218,
+    "name": "Hidratante corporal luna fascinante 125ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 39.9,
+    "oldPrice": 59.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/i1sl5dz8y2.jpg"
+  },
+  {
+    "id": 219,
+    "name": "Loção Hidratante Corporal Chic Retrô 200ml",
+    "brand": "Eudora",
+    "category": "corpo",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/dl6ov2b665.jpg"
+  },
+  {
+    "id": 220,
+    "name": "Hidratante Corporal Instance Frutas Vermelhas 180ml",
+    "brand": "Avon",
+    "category": "corpo",
+    "price": 34.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/gl84cpu8w1.jpg"
+  },
+  {
+    "id": 221,
+    "name": "Hidratante Corporal Kaiak Feminino 150ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 45.5,
+    "oldPrice": 64.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/pgm8qq6qhh.jpg"
+  },
+  {
+    "id": 222,
+    "name": "Hidratante Corporal Cereja E Avelã 80ml",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 17.9,
+    "oldPrice": 25.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/xpcgpmy5un.jpg"
+  },
+  {
+    "id": 223,
+    "name": "Hidratante Corporal Cereja e Avelã 400ml",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 78.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/y2jewxhsy8.jpg"
+  },
+  {
+    "id": 224,
+    "name": "Hidratante Corporal Ekos Andiroba Nv 400ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 59.9,
+    "oldPrice": 89.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/zc73vn366b.jpg"
+  },
+  {
+    "id": 225,
+    "name": "Hidratante corporal essencial exclusivo feminino 100ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 34.9,
+    "oldPrice": 49.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/cmzdows20p.jpg"
+  },
+  {
+    "id": 226,
+    "name": "Refil Hidratante para o Corpo Tododia Algodão 400ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/f8cdaeih1g.jpg"
+  },
+  {
+    "id": 227,
+    "name": "Refil Hidratante corpo Noz Pecã e Cacau 400ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9o5q6mw4ix.jpg"
+  },
+  {
+    "id": 228,
+    "name": "Sabonete Líquido Corporal Ekos Andiroba - 195 ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 34.9,
+    "oldPrice": 55.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/gmymwfp2cs.jpg"
+  },
+  {
+    "id": 229,
+    "name": "Sabonete líquido corporal avelã e cassis 100g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 24.9,
+    "oldPrice": 34.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/5h0t7zn32j.jpg"
+  },
+  {
+    "id": 230,
+    "name": "Sabonete líquido esfoliante para o corpo capim limão e hortelã 190g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 38.9,
+    "oldPrice": 50.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/dr5uvzqne1.jpg"
+  },
+  {
+    "id": 231,
+    "name": "Sabonete Líquido Ekos Amazonia 195ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 36.9,
+    "oldPrice": 55.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/vciv09t4qa.jpg"
+  },
+  {
+    "id": 232,
+    "name": "Sabonete barra Kaiak Aventura Feminino 90g",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 13.9,
+    "oldPrice": 17.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/mx2w5gbxvq.jpg"
+  },
+  {
+    "id": 233,
+    "name": "Presente Cx Flor de Sabonete Sortidos Coração 6x90g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 53.9,
+    "oldPrice": 59.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ihl6oqbhw2.jpg"
+  },
+  {
+    "id": 234,
+    "name": "Presente Sabonete natura meu jardim de flores",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 49.9,
+    "oldPrice": 59.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/qpukgshby4.jpg"
+  },
+  {
+    "id": 235,
+    "name": "Sabonete Líquido Cremoso Tododia Todanoite 300ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 35.9,
+    "oldPrice": 50.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/20n76iu7tt.jpg"
+  },
+  {
+    "id": 236,
+    "name": "Sabonete líquido em gel noz pecã e cacau 300ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 35.9,
+    "oldPrice": 50.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/qx1ut78g84.jpg"
+  },
+  {
+    "id": 237,
+    "name": "Cx Sabonete Tododia Algodão 2un de 90g",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 16.9,
+    "oldPrice": 20.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/cs60k130ct.jpg"
+  },
+  {
+    "id": 238,
+    "name": "Cx Sabonete jambo rosa e flor de caju 5x90g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 28.9,
+    "oldPrice": 34.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/mooplpijo.jpg"
+  },
+  {
+    "id": 239,
+    "name": "Sabonete Líquido Luna Absoluta 100ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 27.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/trv46a4060.jpg"
+  },
+  {
+    "id": 240,
+    "name": "Cx Sabonete Barra Doçura na Pessegura 4x80g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 34.9,
+    "oldPrice": 38.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/6jp168ju7y.jpg"
+  },
+  {
+    "id": 241,
+    "name": "Sabonete Líquido Kaiak Aventura Fem 200ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 38.9,
+    "oldPrice": 54.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/t18uoyyot7.jpg"
+  },
+  {
+    "id": 242,
+    "name": "Cx de Sabonete Noz Pecã e Cacau 5x90g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 34.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4noxbyjrsm.jpg"
+  },
+  {
+    "id": 243,
+    "name": "Cx Sabonete Amora Vermelha e Jabuticaba 5X90g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 34.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/orc1nl9eic.jpg"
+  },
+  {
+    "id": 244,
+    "name": "Cx Sabonete Alecrim e sálvia Natura 5x90g",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 34.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/8oy5zhaer6.jpg"
+  },
+  {
+    "id": 245,
+    "name": "Sabonete Líquido Íntimo Gentle 125ml",
+    "brand": "Eudora",
+    "category": "corpo",
+    "price": 12.9,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ddty4gklsv.jpg"
+  },
+  {
+    "id": 246,
+    "name": "Cx Sabonete Flor de Gengibre E Tangerina 2x90g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 17.9,
+    "oldPrice": 20.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/nfiudofkri.jpg"
+  },
+  {
+    "id": 247,
+    "name": "Cx Sabonete Amora Vermelha e Jabuticaba 2X90g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 16.9,
+    "oldPrice": 20.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/n0sjv0pwo.jpg"
+  },
+  {
+    "id": 248,
+    "name": "Cx Sabonete Noz Pecã e Cacau 2X90g",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 17.9,
+    "oldPrice": 20.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/abmgchmo7x.jpg"
+  },
+  {
+    "id": 249,
+    "name": "Cx Sabonete Natura Acerola e Hibisco 5X90g",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 27.9,
+    "oldPrice": 34.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/2p6a9pwdwz.jpg"
+  },
+  {
+    "id": 250,
+    "name": "Óleo Corporal Kriska Drama 150ml",
+    "brand": "Eudora",
+    "category": "corpo",
+    "price": 63.9,
+    "oldPrice": 99.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/uc8uxkcs54.jpg"
+  },
+  {
+    "id": 251,
+    "name": "Óleo Corporal Trifásico Ekos Açaí 200ml",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 64.9,
+    "oldPrice": 99.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/thlou4ili1.jpg"
+  },
+  {
+    "id": 252,
+    "name": "Óleo Corporal Nativa SPA Ameixa Negra 200ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 84.9,
+    "oldPrice": 99.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/j47amapp7w.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Óleo Corporal Instance Rosa Absoluta 200ml",
+    "brand": "Avon",
+    "category": "corpo",
+    "price": 54.99,
+    "oldPrice": 69.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/lsgcjmvqvg.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Sabonete Líquido Corporal Sève Amêndoas e Canela 100ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 25.9,
+    "oldPrice": 35.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/pheqwrfsw2.jpg"
+  },
+  {
+    "id": 255,
+    "name": "Creme hidratante para mãos maracujá 40g",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 27.9,
+    "oldPrice": 41.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/31hjq9yeke.jpg"
+  },
+  {
+    "id": 256,
+    "name": "Creme para as Mãos Óleo de Coco Luvas de Silicone 75g",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 12.99,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/7ybiejuwl1.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Creme para as Mãos Macadâmia Luvas De Silicone 75g",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 12.99,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/agnzicz51l.jpg"
+  },
+  {
+    "id": 258,
+    "name": "Creme para as mãos Luvas De Silicone 75g",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 12.99,
+    "oldPrice": 17.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/pox41ow8de.jpg"
+  },
+  {
+    "id": 259,
+    "name": "Creme para As Mãos Protetor Luvas De Silicone 120g",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 16.99,
+    "oldPrice": 24.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/cvcbbcbms5.jpg"
+  },
+  {
+    "id": 260,
+    "name": "Creme para Mãos Instance Rosa Absoluta 30G",
+    "brand": "Avon",
+    "category": "corpo",
+    "price": 19.9,
+    "oldPrice": 22.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/s5jxypnm1a.jpg"
+  },
+  {
+    "id": 261,
+    "name": "Creme para mãos avelã e cassis 50ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 24.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/xsqliyoz39.jpg"
+  },
+  {
+    "id": 262,
+    "name": "Creme para mãos amora vermelha e jabuticaba 50ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 24.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/6w5zrixau8.jpg"
+  },
+  {
+    "id": 263,
+    "name": "Creme para as mãos macadâmia 50ml",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 24.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/kvq5plhhae.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Creme para as mãos tâmara e canela 50ml",
+    "brand": "Boticário",
+    "category": "corpo",
+    "price": 24.99,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/emit9zv8lx.jpg"
+  },
+  {
+    "id": 265,
+    "name": "Creme para as mãos Ekos Breu branco 40g",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 29.4,
+    "oldPrice": 41.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/8pva6akbfx.jpg"
+  },
+  {
+    "id": 266,
+    "name": "Creme para as mãos Instance Frutas Vermelhas 30G",
+    "brand": "Avon",
+    "category": "corpo",
+    "price": 19.9,
+    "oldPrice": 22.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/26724mgf6p.jpg"
+  },
+  {
+    "id": 267,
+    "name": "Creme mãos Humor Próprio 40g",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 24.9,
+    "oldPrice": 42.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/c9a2z4ymcs.jpg"
+  },
+  {
+    "id": 268,
+    "name": "Polpa mãos EKOS TUKUMA 40g",
+    "brand": "Natura",
+    "category": "corpo",
+    "price": 41.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/jxqph9de1w.jpg"
+  },
+  {
+    "id": 269,
+    "name": "Creme Esfoliante Intensivo para os Pés 80g",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 17.99,
+    "oldPrice": 23.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/iu77iwub28.jpg"
+  },
+  {
+    "id": 270,
+    "name": "Desodorante Spray Refrescante Para Os Pés",
+    "brand": "Multimarcas",
+    "category": "corpo",
+    "price": 16.99,
+    "oldPrice": 23.99,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/5p5okuoam5.jpg"
+  },
+  {
+    "id": 271,
+    "name": "Refil Deo Corporal Essencial Masculino 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 34.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/1706s47i1s.jpg"
+  },
+  {
+    "id": 272,
+    "name": "Desodorante Rollon AWAY BEYOND MOON 48ml",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.49,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/aq8q26mjng.jpg"
+  },
+  {
+    "id": 273,
+    "name": "Desodorante Rollon Amora Vermelha e Jabuticaba 70 ml",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/p7opm7ndeu.jpg"
+  },
+  {
+    "id": 274,
+    "name": "Desodorante Rollon Erva Doce 48ml",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.49,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/e587lvfhnw.jpg"
+  },
+  {
+    "id": 275,
+    "name": "Desodorante Rollon Feminino Petit Atitude 48ml",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.49,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/rke7sd0xoq.jpg"
+  },
+  {
+    "id": 276,
+    "name": "Desodorante Rollon Feminino LOV|U 48ml",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.49,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/f4mgp5gnwi.jpg"
+  },
+  {
+    "id": 277,
+    "name": "Desodorante Rollon Luna Classico 75ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/n9nz3ejxuf.jpg"
+  },
+  {
+    "id": 278,
+    "name": "Desodorante Rollon Tododia Alecrim e Sálvia 70ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/lu6cfgusv7.jpg"
+  },
+  {
+    "id": 279,
+    "name": "Refil deo corporal natura homem 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ppcpezwzni.jpg"
+  },
+  {
+    "id": 280,
+    "name": "Refil deo corporal meu primeiro humor 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9qt5ptjvix.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Refil Deo Corporal Masculino Humor Conexao 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/wvrs9sfnio.jpg"
+  },
+  {
+    "id": 282,
+    "name": "Refil Deo Corporal Luna Tradicional 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/6kybn77dfd.jpg"
+  },
+  {
+    "id": 283,
+    "name": "Refil Deo Corporal Luna Radiante 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/bnlq1l8b82.jpg"
+  },
+  {
+    "id": 284,
+    "name": "Refil deo corporal kaiak oceano masculino",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/rej8b99l2z.jpg"
+  },
+  {
+    "id": 285,
+    "name": "Refil Deo Corporal Kaiak Aventura Masculino 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/oefwee8pxp.jpg"
+  },
+  {
+    "id": 286,
+    "name": "Refil Deo Corporal Biografia Masculino 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/bqw80vu39j.jpg"
+  },
+  {
+    "id": 287,
+    "name": "Refil deo corporal biografia feminino 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/vt36dcgbvp.jpg"
+  },
+  {
+    "id": 288,
+    "name": "Refil Deo Corporal Kaiak Pulso 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 44.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4nk0wu0v96.jpg"
+  },
+  {
+    "id": 289,
+    "name": "Desodorante rollon natura homem essence 75ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/8mxk5rbsci.jpg"
+  },
+  {
+    "id": 290,
+    "name": "Desodorante Rollon Kaiak Oceano Masculino",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/vy6fvbbc44.jpg"
+  },
+  {
+    "id": 291,
+    "name": "Deo spray corporal kaiak aventura masc 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 39.9,
+    "oldPrice": 58.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/wh3kgj3c13.jpg"
+  },
+  {
+    "id": 292,
+    "name": "Desodorante Aerossol Arbo Masculino",
+    "brand": "Boticário",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/5f14afra86.jpg"
+  },
+  {
+    "id": 293,
+    "name": "Refil Deo Corporal Essencial Feminino 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 31.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/7efazjuy0x.jpg"
+  },
+  {
+    "id": 294,
+    "name": "Desodorante Aerosol Egeo Choc 75g",
+    "brand": "Boticário",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/amzzllxhxu.jpg"
+  },
+  {
+    "id": 295,
+    "name": "Body Spray masculino Malbec Vert 100ml",
+    "brand": "Boticário",
+    "category": "desodorantes",
+    "price": 44.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0i0r616y7w.jpg"
+  },
+  {
+    "id": 296,
+    "name": "Body Spray Feminino Imensi Eudora 100ml",
+    "brand": "Eudora",
+    "category": "desodorantes",
+    "price": 39.9,
+    "oldPrice": 47.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/abwohc5or9.jpg"
+  },
+  {
+    "id": 297,
+    "name": "Body Spray Glamour Secrets Black 100ml",
+    "brand": "Boticário",
+    "category": "desodorantes",
+    "price": 45.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/biqvr90ums.jpg"
+  },
+  {
+    "id": 298,
+    "name": "Desodorante rollon macadâmia tododia",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/2oi6s4gnj7.jpg"
+  },
+  {
+    "id": 299,
+    "name": "Desodorante Rollon masculino Segno",
+    "brand": "Eudora",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.5,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ob5xhmb2mz.jpg"
+  },
+  {
+    "id": 300,
+    "name": "Desodorante rollon erva doce natura",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/fq8ea703m4.jpg"
+  },
+  {
+    "id": 301,
+    "name": "Desodorante Rollon masculino Men Invisible",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.49,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/cf1c548l4d.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Desodorante rollon feminino kaiak aventura",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/jjmo4nmx5j.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Desodorante Rollon masculino Men Ultra Sport",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.5,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/oxruup60zv.jpg"
+  },
+  {
+    "id": 304,
+    "name": "Desodorante rollon kaiak urbe masculino",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/tathkigipv.jpg"
+  },
+  {
+    "id": 305,
+    "name": "Desodorante rollon kaiak pulso masculino",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/dl7ugq4xs5.jpg"
+  },
+  {
+    "id": 306,
+    "name": "Desodorante rollon kaiak aventura masculino",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/d3336p43w6.jpg"
+  },
+  {
+    "id": 307,
+    "name": "Desodorante Rollon Aquavibe Pretty Blue",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.49,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/aeel20nuq2.jpg"
+  },
+  {
+    "id": 308,
+    "name": "Desodorante Rollon Aquavibe Baby Smell",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.49,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/6p4qlq1w0e.jpg"
+  },
+  {
+    "id": 309,
+    "name": "Desodorante Rollon masculino 300 Km/h Max Turbo",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.49,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/v729tr4nht.jpg"
+  },
+  {
+    "id": 310,
+    "name": "Desodorante Rollon masculino Classic",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 7.99,
+    "oldPrice": 11.5,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/1ojbul42pt.jpg"
+  },
+  {
+    "id": 311,
+    "name": "Desodorante rollon natura homem",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/3auq66kx6s.jpg"
+  },
+  {
+    "id": 312,
+    "name": "Desodorante Rollon Humor A Humor A Dois 75ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/my65674h74.jpg"
+  },
+  {
+    "id": 313,
+    "name": "Desodorante rollon ameixa e flor de baunilha - 70 ml",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/evon9upxb6.jpg"
+  },
+  {
+    "id": 314,
+    "name": "Desodorante em creme ameixa e flor de baunilha 80g",
+    "brand": "Boticário",
+    "category": "desodorantes",
+    "price": 23.9,
+    "oldPrice": 30.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/94addbh7qy.jpg"
+  },
+  {
+    "id": 315,
+    "name": "Desodorante em creme tododia cereja e avelã - 80 g",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 23.9,
+    "oldPrice": 30.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/1rsfc410i3.jpg"
+  },
+  {
+    "id": 316,
+    "name": "Desodorante rollon amora e flor de pêssego",
+    "brand": "Avon",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/h6ph0xgd5s.jpg"
+  },
+  {
+    "id": 317,
+    "name": "Desodorante rollon kaiak masculino",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/zheg8n1ign.jpg"
+  },
+  {
+    "id": 318,
+    "name": "Deo Spray Natura Homem Essence 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 45.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/s0mexht4fi.jpg"
+  },
+  {
+    "id": 319,
+    "name": "Desodorante rollon natura homem dom",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 19.9,
+    "oldPrice": 29.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/2l9jut9xv4.jpg"
+  },
+  {
+    "id": 320,
+    "name": "Deo Spray Corporal Natura Homem Coragio 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 45.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/5il7nm5gum.jpg"
+  },
+  {
+    "id": 321,
+    "name": "Desodorante Aerosol Eudora H Flow 125ml",
+    "brand": "Eudora",
+    "category": "desodorantes",
+    "price": 27.3,
+    "oldPrice": 38.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/xq1v0ir42o.jpg"
+  },
+  {
+    "id": 322,
+    "name": "Desodorante Aerosol Nativa SPA Ameixa 75g",
+    "brand": "Boticário",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/5psiaq09mq.jpg"
+  },
+  {
+    "id": 323,
+    "name": "Deo Spray corporal kriska drama 100ml",
+    "brand": "Eudora",
+    "category": "desodorantes",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/2vlv5a6pvc.jpg"
+  },
+  {
+    "id": 324,
+    "name": "Deo Spray Corporal Meu Primeiro Humor 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/8n1nwz1d3b.jpg"
+  },
+  {
+    "id": 325,
+    "name": "Deo Spray Corporal Paz e Humor 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/tz703qnv04.jpg"
+  },
+  {
+    "id": 326,
+    "name": "Deo Spray Natura Homem Elo 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 45.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/w5cuyl9qsq.jpg"
+  },
+  {
+    "id": 327,
+    "name": "Deo Spray Humor a Rigor Masc 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9v5zgqv6t4.jpg"
+  },
+  {
+    "id": 328,
+    "name": "Deo Spray Corporal Ilía 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 45.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/rbsxd3nrkm.jpg"
+  },
+  {
+    "id": 329,
+    "name": "Deo Spray Corporal Beijo De Humor Feminino 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 37.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/cgchgplqp7.jpg"
+  },
+  {
+    "id": 330,
+    "name": "Deo Corporal Spray Erva Doce100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 39.9,
+    "oldPrice": 56.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/hrj5tbnj44.jpg"
+  },
+  {
+    "id": 331,
+    "name": "Refil Deo Corporal Essencial exclusivo masculino",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 34.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/z6rrd56il5.jpg"
+  },
+  {
+    "id": 332,
+    "name": "Natura Homem Dom Des Corp 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 44.9,
+    "oldPrice": 72.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/zduj2en3tw.jpg"
+  },
+  {
+    "id": 333,
+    "name": "Refil desodorante corporal essencial atrai feminino",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 34.9,
+    "oldPrice": 54.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/sqn6whu3zt.jpg"
+  },
+  {
+    "id": 334,
+    "name": "Refil Deo Corporal Essencial Exclusivo Feminino 100ml",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 34.9,
+    "oldPrice": 52.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/8np580xu6d.jpg"
+  },
+  {
+    "id": 335,
+    "name": "Desodorante Aerosol Cuide-Se Bem Clinical Ultra Protect 90g",
+    "brand": "Boticário",
+    "category": "desodorantes",
+    "price": 27.9,
+    "oldPrice": 39.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/kw6mf1jiji.jpg"
+  },
+  {
+    "id": 336,
+    "name": "Desodorante Rollon tododia pele uniforme",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 29.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ruqd3agf8c.jpg"
+  },
+  {
+    "id": 337,
+    "name": "Kaiak Pulso Desod Spray Resp",
+    "brand": "Natura",
+    "category": "desodorantes",
+    "price": 56.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0s6i4ikzrn.jpg"
+  }
+]
