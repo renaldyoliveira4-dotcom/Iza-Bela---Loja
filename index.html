@@ -47,6 +47,22 @@ fbq('track', 'PageView');
   .eyebrow{font-size:0.76rem; letter-spacing:0.13em; text-transform:uppercase; font-weight:700; color:var(--wine); display:inline-flex; align-items:center; gap:8px;}
   .eyebrow::before{content:""; width:16px; height:1px; background:var(--gold); display:inline-block;}
 
+  /* ---------- campaign banner (Dia dos Pais) ---------- */
+  .promo-banner{background:linear-gradient(135deg,var(--wine-deep),var(--wine)); color:#fff; padding:28px 0;}
+  .promo-banner-inner{display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:24px;}
+  .promo-text .eyebrow{color:var(--gold);}
+  .promo-text .eyebrow::before{background:var(--rose);}
+  .promo-text h2{color:#fff; font-size:1.5rem; margin:8px 0 4px;}
+  .promo-text p{color:#e6c3c9; font-size:0.92rem; margin:0;}
+  .promo-right{display:flex; align-items:center; gap:20px; flex-wrap:wrap;}
+  .countdown{display:flex; gap:10px;}
+  .countdown-box{background:rgba(255,255,255,0.12); border-radius:10px; padding:8px 12px; text-align:center; min-width:56px;}
+  .countdown-box .cd-num{font-family:'Fraunces',serif; font-size:1.5rem; font-weight:600; line-height:1;}
+  .countdown-box .cd-label{font-size:0.62rem; text-transform:uppercase; letter-spacing:.06em; color:#e6c3c9;}
+  .btn-light{background:#fff; color:var(--wine-deep);}
+  .btn-light:hover{background:var(--rose);}
+  @media(max-width:640px){.promo-banner-inner{flex-direction:column; align-items:flex-start;}}
+
   /* ---------- top bar ---------- */
   .topbar{background:var(--wine-deep); color:#f2d9dd; font-size:0.78rem; text-align:center; padding:8px 12px; letter-spacing:0.02em;}
   .topbar strong{color:var(--gold); font-weight:700;}
@@ -286,6 +302,20 @@ fbq('track', 'PageView');
     </div>
   </nav>
 </header>
+
+<section class="promo-banner" id="promoBanner">
+  <div class="wrap promo-banner-inner">
+    <div class="promo-text">
+      <span class="eyebrow">Dia dos Pais é 9 de agosto</span>
+      <h2>Kits prontos pra presentear, sem correria</h2>
+      <p>Perfumes, kits e desodorantes das marcas que você confia — direto no WhatsApp.</p>
+    </div>
+    <div class="promo-right">
+      <div class="countdown" id="countdown"></div>
+      <button class="btn btn-light" id="verKitsBtn">Ver kits de Dia dos Pais</button>
+    </div>
+  </div>
+</section>
 
 <main id="top">
 
@@ -710,6 +740,36 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
 
 renderCart();
 renderBadges();
+
+// ===== Contagem regressiva Dia dos Pais (09/08/2026) =====
+// Pra remover a faixa depois da data, apague a <section id="promoBanner"> no HTML.
+function renderCountdown(){
+  const target = new Date('2026-08-09T23:59:59');
+  const el = document.getElementById('countdown');
+  const banner = document.getElementById('promoBanner');
+  function tick(){
+    const diff = target - new Date();
+    if(diff <= 0){ banner.style.display = 'none'; return; }
+    const days = Math.floor(diff / (1000*60*60*24));
+    const hours = Math.floor((diff / (1000*60*60)) % 24);
+    const mins = Math.floor((diff / (1000*60)) % 60);
+    el.innerHTML = `
+      <div class="countdown-box"><div class="cd-num">${days}</div><div class="cd-label">dias</div></div>
+      <div class="countdown-box"><div class="cd-num">${hours}</div><div class="cd-label">horas</div></div>
+      <div class="countdown-box"><div class="cd-num">${mins}</div><div class="cd-label">min</div></div>
+    `;
+  }
+  tick();
+  setInterval(tick, 60000);
+}
+renderCountdown();
+
+document.getElementById('verKitsBtn').addEventListener('click', () => {
+  state.category = 'kits';
+  document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.cat === 'kits'));
+  renderGrid();
+  document.getElementById('produtos').scrollIntoView({behavior:'smooth', block:'start'});
+});
 
 const grid = document.getElementById('productGrid');
 grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1;">Carregando catálogo...</div>`;
