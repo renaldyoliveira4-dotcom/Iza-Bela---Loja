@@ -3031,5 +3031,410 @@
     "price": 56.9,
     "oldPrice": null,
     "img": "https://s3.us-east-1.amazonaws.com/revendi/products/0s6i4ikzrn.jpg"
+  },
+  {
+    "id": 338,
+    "name": "Kit Presente Natura Sr. N masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 149.9,
+    "oldPrice": 228.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/21oj05diw5.jpg"
+  },
+  {
+    "id": 339,
+    "name": "Kit Presente Humor a Rigor masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 139.9,
+    "oldPrice": 224.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/v82aqohp61.jpg"
+  },
+  {
+    "id": 340,
+    "name": "Kit Presente Natura Essencial Sentir masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 219.9,
+    "oldPrice": 352.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/yblvcup2kq.jpg"
+  },
+  {
+    "id": 341,
+    "name": "Kit Presente natura essencial completo",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 229.9,
+    "oldPrice": 389.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/efm4yelcy9.jpg"
+  },
+  {
+    "id": 342,
+    "name": "Presente Natura Essencial Masculino (2 produtos)",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 209.9,
+    "oldPrice": 339.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9tryabagjs.jpg"
+  },
+  {
+    "id": 343,
+    "name": "Kit Presente Natura Homem Clássico",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 174.9,
+    "oldPrice": 267.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/l90jaft460.jpg"
+  },
+  {
+    "id": 344,
+    "name": "Kit Presente Natura Homem Tato",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 264.9,
+    "oldPrice": 399.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ndgc4xv4ks.jpg"
+  },
+  {
+    "id": 345,
+    "name": "Kit Presente natura homem tato",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 219.9,
+    "oldPrice": 324.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/qr76bxe4ku.jpg"
+  },
+  {
+    "id": 346,
+    "name": "Kit Presente natura homem sagaz",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 174.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ik8ou3xcq4.jpg"
+  },
+  {
+    "id": 347,
+    "name": "Presente natura biografia masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 194.9,
+    "oldPrice": 306.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/5bc6guy4t5.jpg"
+  },
+  {
+    "id": 348,
+    "name": "Kit Presente Natura Biografia Masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 184.9,
+    "oldPrice": 289.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/z5m5aida4t.jpg"
+  },
+  {
+    "id": 349,
+    "name": "Kit Presente Humor A Rigor Masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 159.9,
+    "oldPrice": 244.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9li1f5aobn.jpg"
+  },
+  {
+    "id": 350,
+    "name": "Kit Presente natura homem completo",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 214.9,
+    "oldPrice": 319.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/uw6wc5m31i.jpg"
+  },
+  {
+    "id": 351,
+    "name": "Kit Presente Masculino Portinari",
+    "brand": "Multimarcas",
+    "category": "kits",
+    "price": 199.9,
+    "oldPrice": 262.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/6j5rr5jik9.jpg"
+  },
+  {
+    "id": 352,
+    "name": "Kit Presente Arbo Tradicional Masculino",
+    "brand": "Boticário",
+    "category": "kits",
+    "price": 199.9,
+    "oldPrice": 242.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/e1smwsxgi4.jpg"
+  },
+  {
+    "id": 353,
+    "name": "Kit Presente kaiak urbe masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 174.9,
+    "oldPrice": 274.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/7tpd8lp46f.jpg"
+  },
+  {
+    "id": 354,
+    "name": "Kit Presente natura kaiak aventura masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 69.9,
+    "oldPrice": 96.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/02l7kuxw39.jpg"
+  },
+  {
+    "id": 355,
+    "name": "Kit Presente Kaiak Aventura Masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 159.9,
+    "oldPrice": 249.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/q6cpypp322.jpg"
+  },
+  {
+    "id": 356,
+    "name": "Kit Presente Natura Homem Dom",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 224.9,
+    "oldPrice": 344.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/4m9jceklkt.jpg"
+  },
+  {
+    "id": 357,
+    "name": "Kit Presente Natura Homem Dom",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 179.9,
+    "oldPrice": 289.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/d325ob6x1x.jpg"
+  },
+  {
+    "id": 358,
+    "name": "Kit Presente Homem Essence Natura",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 174.9,
+    "oldPrice": 279.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/xvlvppsu21.jpg"
+  },
+  {
+    "id": 359,
+    "name": "Kit Presente Natura Homem Essence",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 219.9,
+    "oldPrice": 354.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/n1cexn3o7q.jpg"
+  },
+  {
+    "id": 360,
+    "name": "Kit Presente paz e humor masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 149.9,
+    "oldPrice": 229.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/7dytlgoj6t.jpg"
+  },
+  {
+    "id": 361,
+    "name": "Kit Presente natura paz e humor",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 174.9,
+    "oldPrice": 274.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/eygr3yn3qu.jpg"
+  },
+  {
+    "id": 362,
+    "name": "Kit Presente natura humor a dois masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 154.9,
+    "oldPrice": 244.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/h388xgcz3r.jpg"
+  },
+  {
+    "id": 363,
+    "name": "Kit Presente masculino humor a dois",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 164.9,
+    "oldPrice": 254.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/wuix4j5fjy.jpg"
+  },
+  {
+    "id": 364,
+    "name": "Kit Presente Natura Humor a Dois Masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 169.9,
+    "oldPrice": 264.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ns3d0qxzdv.jpg"
+  },
+  {
+    "id": 365,
+    "name": "Kit Presente Humor A Rigor Masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 74.9,
+    "oldPrice": 116.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/bm7xopvxvq.jpg"
+  },
+  {
+    "id": 366,
+    "name": "Kit Presente natura kaiak masculino completo",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 234.9,
+    "oldPrice": 369.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/l2wxei9aj9.jpg"
+  },
+  {
+    "id": 367,
+    "name": "Kit Presente natura kaiak urbe",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 54.9,
+    "oldPrice": 84.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/tvomp7on5n.jpg"
+  },
+  {
+    "id": 368,
+    "name": "Kit Presente kaiak aventura masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 169.9,
+    "oldPrice": 269.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9i5g2o14nv.jpg"
+  },
+  {
+    "id": 369,
+    "name": "Kit Presente Homem Elo Natura 2 Itens",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 74.9,
+    "oldPrice": 134.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/yf6jiti1xt.jpg"
+  },
+  {
+    "id": 370,
+    "name": "Kit Presente Humor a Rigor natura",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 169.9,
+    "oldPrice": 259.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/xv8d4adh0s.jpg"
+  },
+  {
+    "id": 371,
+    "name": "Kit Presente Natura Homem Elo",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 224.9,
+    "oldPrice": 375.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/zgp4g8e427.jpg"
+  },
+  {
+    "id": 372,
+    "name": "Kit Presente Natura Homem Elo",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 179.9,
+    "oldPrice": 299.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/8idwqgatms.jpg"
+  },
+  {
+    "id": 373,
+    "name": "kit Presente Essencial Oud e Tradicional",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 79.9,
+    "oldPrice": 146.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/oewpd1h8cc.jpg"
+  },
+  {
+    "id": 374,
+    "name": "Kit Presente Essencial Masculino Tradicional",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 74.9,
+    "oldPrice": 119.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/lfjr1hplzz.jpg"
+  },
+  {
+    "id": 375,
+    "name": "Kit Presente Natura Kaiak Aventura Masculino",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 179.9,
+    "oldPrice": 289.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/9k8ek7sgym.jpg"
+  },
+  {
+    "id": 376,
+    "name": "Kit Presente Masculino Eudora Club 6",
+    "brand": "Eudora",
+    "category": "kits",
+    "price": 74.9,
+    "oldPrice": 100.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/s1qu0q89o9.jpg"
+  },
+  {
+    "id": 377,
+    "name": "Kit Presente Malbec Mini (3 itens)",
+    "brand": "Boticário",
+    "category": "kits",
+    "price": 189.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/34tj7locve.jpg"
+  },
+  {
+    "id": 378,
+    "name": "Kit Presente Humor Masculino Natura",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 79.99,
+    "oldPrice": 119.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/ah99mhqjdz.jpg"
+  },
+  {
+    "id": 379,
+    "name": "Kit Presente Eudora Bad Intention Masculino",
+    "brand": "Eudora",
+    "category": "kits",
+    "price": 159.9,
+    "oldPrice": 199.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/flzx90wiiq.jpg"
+  },
+  {
+    "id": 380,
+    "name": "kit Presente natura homem essence",
+    "brand": "Natura",
+    "category": "kits",
+    "price": 199.9,
+    "oldPrice": 307.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/vwv0wl5q5w.jpg"
+  },
+  {
+    "id": 381,
+    "name": "Presente Siàge Masculino: Shampo + Condionador",
+    "brand": "Eudora",
+    "category": "kits",
+    "price": 79.9,
+    "oldPrice": 85.9,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/7ielr4gquy.jpg"
+  },
+  {
+    "id": 382,
+    "name": "Kit Presente Malbec Cuidados (2 Itens)",
+    "brand": "Boticário",
+    "category": "kits",
+    "price": 89.9,
+    "oldPrice": null,
+    "img": "https://s3.us-east-1.amazonaws.com/revendi/products/dh0oz2hyn1.jpg"
   }
 ]
