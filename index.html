@@ -800,6 +800,13 @@ fetch('produtos.json')
   })
   .then(data => {
     PRODUCTS = data;
+    // Se o link tiver ?cat=xxx (ex: vindo de um anúncio), já abre filtrado nessa categoria
+    const urlCat = new URLSearchParams(window.location.search).get('cat');
+    const validCats = ['ofertas','perfumaria','maquiagem','skincare','cabelos','corpo','desodorantes','kits'];
+    if(urlCat && validCats.includes(urlCat)){
+      state.category = urlCat;
+      document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.cat === urlCat));
+    }
     renderGrid();
     renderMarquee();
   })
