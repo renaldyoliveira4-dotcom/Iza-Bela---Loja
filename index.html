@@ -50,6 +50,7 @@ fbq('track', 'PageView');
   /* ---------- campaign banner (Dia dos Pais) ---------- */
   .promo-banner{background:linear-gradient(135deg,var(--wine-deep),var(--wine)); color:#fff; padding:28px 0;}
   .promo-banner-inner{display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:24px;}
+  .promo-banner-left{display:flex; align-items:center; gap:18px;}
   .promo-text .eyebrow{color:var(--gold);}
   .promo-text .eyebrow::before{background:var(--rose);}
   .promo-text h2{color:#fff; font-size:1.5rem; margin:8px 0 4px;}
@@ -60,6 +61,18 @@ fbq('track', 'PageView');
   .countdown-box .cd-num{font-family:'Fraunces',serif; font-size:1.5rem; font-weight:600; line-height:1;}
   .countdown-box .cd-label{font-size:0.62rem; text-transform:uppercase; letter-spacing:.06em; color:#e6c3c9;}
   .btn-light{background:#fff; color:var(--wine-deep);}
+  .badge-discount{
+    display:inline-flex; align-items:center; justify-content:center; flex-shrink:0;
+    background:linear-gradient(135deg,var(--gold),#e0a83a); color:var(--wine-deep);
+    font-family:'Fraunces',serif; font-weight:700; font-style:italic;
+    border-radius:999px; box-shadow:0 10px 22px -8px rgba(201,162,39,.6);
+    animation:badgePulse 2.2s ease-in-out infinite;
+  }
+  @keyframes badgePulse{0%,100%{transform:scale(1);} 50%{transform:scale(1.05);}}
+  @media(prefers-reduced-motion:reduce){.badge-discount{animation:none;}}
+  .promo-badge{width:74px; height:74px; font-size:1.15rem; line-height:1.05; flex-direction:column; text-align:center;}
+  .promo-badge small{font-size:0.55rem; font-style:normal; font-weight:800; letter-spacing:.04em; text-transform:uppercase;}
+  .hc-badge{padding:8px 18px; font-size:1.05rem; margin-bottom:14px;}
   .btn-light:hover{background:var(--rose);}
   @media(max-width:640px){.promo-banner-inner{flex-direction:column; align-items:flex-start;}}
 
@@ -307,10 +320,13 @@ fbq('track', 'PageView');
 
 <section class="promo-banner" id="promoBanner">
   <div class="wrap promo-banner-inner">
-    <div class="promo-text">
-      <span class="eyebrow">Dia dos Pais é 9 de agosto</span>
-      <h2>Kits prontos pra presentear, sem correria</h2>
-      <p>Perfumes, kits e desodorantes das marcas que você confia — direto no WhatsApp.</p>
+    <div class="promo-banner-left">
+      <span class="badge-discount promo-badge">-40<small>OFF</small></span>
+      <div class="promo-text">
+        <span class="eyebrow">Dia dos Pais é 9 de agosto</span>
+        <h2>Kits prontos pra presentear, sem correria</h2>
+        <p>Perfumes, kits e desodorantes das marcas que você confia — direto no WhatsApp.</p>
+      </div>
     </div>
     <div class="promo-right">
       <div class="countdown" id="countdown"></div>
@@ -769,10 +785,10 @@ grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1;">Carregando 
    CARROSSEL DO HERO — troque os slides aqui (imagem, texto, categoria)
 ===================================================================== */
 const HERO_SLIDES = [
-  {eyebrow:"Dia dos Pais · até 40% off", headline:"Kits prontos pra presentear", text:"Perfumes e kits das marcas que você confia, com desconto especial.", cta:"Ver kits", cat:"kits", img:"https://s3.us-east-1.amazonaws.com/revendi/products/ndgc4xv4ks.jpg"},
+  {eyebrow:"Dia dos Pais", badge:"🔥 até -40% OFF", headline:"Kits prontos pra presentear", text:"Perfumes e kits das marcas que você confia, com desconto especial.", cta:"Ver kits", cat:"kits", img:"https://s3.us-east-1.amazonaws.com/revendi/products/ndgc4xv4ks.jpg"},
   {eyebrow:"Perfumaria", headline:"Perfumes que marcam presença", text:"As fragrâncias favoritas de todo mundo, com preço especial.", cta:"Ver perfumaria", cat:"perfumaria", img:"https://s3.us-east-1.amazonaws.com/revendi/products/1wgvonmek9.jpg"},
   {eyebrow:"Skincare", headline:"Cuidado que começa pelo rosto", text:"Skincare das marcas que você já confia, na sua rotina.", cta:"Ver skincare", cat:"skincare", img:"https://s3.us-east-1.amazonaws.com/revendi/products/2xx7igujis.jpg"},
-  {eyebrow:"Corpo & banho", headline:"Hidratação de cabo a rabo", text:"Cremes e hidratantes pra cuidar de você todo dia.", cta:"Ver corpo & banho", cat:"corpo", img:"https://s3.us-east-1.amazonaws.com/revendi/products/949411kdmv.jpg"}
+  {eyebrow:"Corpo & banho", headline:"Hidratação que sua pele merece", text:"Cremes e hidratantes pra cuidar de você todo dia.", cta:"Ver corpo & banho", cat:"corpo", img:"https://s3.us-east-1.amazonaws.com/revendi/products/949411kdmv.jpg"}
 ];
 
 function renderHeroCarousel(){
@@ -783,6 +799,7 @@ function renderHeroCarousel(){
       <div class="hc-slide-media" style="background-image:url('${s.img}');"></div>
       <div class="hc-slide-overlay" style="background:linear-gradient(90deg, rgba(62,15,29,.95) 0%, rgba(62,15,29,.75) 38%, rgba(62,15,29,.15) 68%, rgba(62,15,29,0) 85%);"></div>
       <div class="hc-slide-content">
+        ${s.badge ? `<span class="badge-discount hc-badge">${s.badge}</span>` : ''}
         <span class="eyebrow">${s.eyebrow}</span>
         <h2>${s.headline}</h2>
         <p>${s.text}</p>
